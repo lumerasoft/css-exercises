@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#blue {
+  font-size: 50px;
+  color: blue;
+}
+
+#black {
+  font-weight: 800;
+  font-size: 28px;
+  background-color: lightgreen;
+}
+
+.small, .large {
+  background-color: rgb(234, 166, 166);
+}
+
+.small {
+  font-size: 20px;
+}
+
+.large {
+  font-size: 35px;
+}
